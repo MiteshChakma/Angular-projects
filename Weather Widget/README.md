@@ -9,6 +9,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 * CSS
 * JS
 
+# Project Preview
+
+![Project Preview](https://github.com/MiteshChakma/Angular-projects/blob/master/Weather%20Widget/snap.JPG)
 
 
 
